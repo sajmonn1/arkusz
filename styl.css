@@ -7,7 +7,7 @@ div#container {
     width: 95%;
     margin: auto;
 }
-div#banger {
+div#baner {
     background-color: #00838f;
     height: 200px;
 }
@@ -26,7 +26,7 @@ main > div {
     float: left;
 }
 footer {
-    background-color: #066064;
+    background-color: #006064;
     color: white;
     text-align: right;
     padding: 10px;
@@ -35,8 +35,8 @@ footer {
 ul {
     text-align: left;
 }
-input[type=reset]
-input[type=button]{
-    background-color: #006064;
+input[type=reset],
+input[type=button] {
+    background-color: #00838f;
     color: white;
 }
